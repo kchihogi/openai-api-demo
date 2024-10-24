@@ -1,0 +1,11 @@
+openai
+requests
+pandas
+numpy
+matplotlib
+pillow
+opencv-python
+seaborn
+tqdm
+jupyter
+pytest
